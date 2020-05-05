@@ -3,7 +3,7 @@
 	
 		<img id="logo" src="ml.png" width="100px" height="100px">
 		<div style="clear:both;display: inline-block;"></div>
-		<h1><span style="color:red">Online</span> Examinaion System</h1>
+		<h1><span style="color:red">Online</span> Examinaion System </h1>
 	
 	</div>
 	
